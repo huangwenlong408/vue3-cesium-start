@@ -5,7 +5,6 @@
 <script>
 import { onMounted } from "vue";
 import useViewer from "@/hooks/useViewer"
-import 'cesium/widgets.css'
 
 
 export default {
